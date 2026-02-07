@@ -1,7 +1,5 @@
 ## Hi there! ✨️
 
-##Here are some ideas to get you started:
-
 ##- 🔭 I’m currently working on Java, Python, HTML, Javascript, Lua
 ##- 🌱 I’m currently learning how to help people with physics and tech.
 
