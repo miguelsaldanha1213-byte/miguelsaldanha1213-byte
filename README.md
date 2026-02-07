@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-<!--miguelsaldanha1213-byte/miguelsaldanha1213-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##miguelsaldanha1213-byte/miguelsaldanha1213-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Java, Python, HTML, Javascript, Lua
-- 🌱 I’m currently learning how to help people with physics and tech.
+##- 🔭 I’m currently working on Java, Python, HTML, Javascript, Lua
+##- 🌱 I’m currently learning how to help people with physics and tech.
 
 ### 💻 Linguagens e Tecnologias:
 
