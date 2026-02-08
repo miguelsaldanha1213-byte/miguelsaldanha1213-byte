@@ -30,7 +30,6 @@
 ### 🛠️ No que eu gasto meu tempo (além de concordar com haters):
 * 📚 **Física Teórica & Cálculo**: Tentando entender o universo (já que eu mesmo não faço sentido).
 * 💻 **Programação**: Python, Lua, Java, JS/TS.
-* 🎮 **Roblox**: Criando sombras perfeitas para objetos que não têm futuro.
 
 ---
 <p align="right"><i>"E = mc² (mas o 'm' é de medo de dar erro no código)"</i></p>
