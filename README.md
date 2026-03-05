@@ -27,10 +27,10 @@
 
 ---
 
-### 🛠️ No que eu gasto meu tempo (além de concordar com haters):
-* 📚 **Física Teórica & Cálculo**: Tentando entender o universo (já que eu mesmo não faço sentido).
-* 💻 **Programação**: Python, Lua, Java, JS/TS.
+### 🛠️ in what I like to waste time (but agree with haters):
+* 📚 **Physics and Math**: Trying to understand the universe (since my existance doesn't have a meaning).
+* 💻 **Programming**: Python, Lua, Java, JS/TS.
 
 ---
-<p align="right"><i>"E = mc² (mas o 'm' é de medo de dar erro no código)"</i></p>
+<p align="right"><i>"E = mc² (but the c is of currently dumbness attack. )"</i></p>
 
