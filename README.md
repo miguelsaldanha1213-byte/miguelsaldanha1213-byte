@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Java, Python, Javascript, Lua
 - 🌱 I’m currently learning how to help people with   physics and tech.
 
-### 💻 Linguagens e Tecnologias:
+### 💻 Lenguagens and technologies:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
